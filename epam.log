@@ -1,0 +1,6 @@
+2020-02-25 18:51:11 INFO  app.epam.myProject.A:13 - Enter the amount:
+2020-02-25 18:51:31 INFO  app.epam.myProject.A:15 - Enter the No.of years:
+2020-02-25 18:51:32 INFO  app.epam.myProject.A:17 - Enter the Rate of  interest
+2020-02-25 18:51:33 INFO  app.epam.myProject.A:28 - Simple Interest=4500.0
+2020-02-25 18:51:33 INFO  app.epam.myProject.A:34 - Compound Interest=4567.5
+2020-02-25 18:51:33 INFO  app.epam.myProject.A:22 - Method executed successfully
