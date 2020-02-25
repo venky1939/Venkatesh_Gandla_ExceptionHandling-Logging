@@ -19,11 +19,11 @@ class B
 	    MatCost=sc.nextDouble();
 	    LOGGER.info("Enter area of the house:");
 	    Area=sc.nextDouble();
-	    B.simple(MatCost,Area);
+	    B.calculate(MatCost,Area);
 	    
 	    LOGGER.info("Method executed successfully");
 	}
-	static void simple(double t,double r)
+	static void calculate(double t,double r)
 	{
 		double cost;
 		cost=t*r;
